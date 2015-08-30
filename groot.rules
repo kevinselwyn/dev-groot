@@ -1,0 +1,1 @@
+KERNEL=="groot", MODE="0444"
